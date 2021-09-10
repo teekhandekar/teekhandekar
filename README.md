@@ -1,6 +1,3 @@
-![Uploading image.png…]()
-
-
 <h1 align="center">Hi 👋, I'm Tejaswini Khandekar</h1>
 <h3 align="center">I'm a IT student, passionate about cloud computing and cloud security</h3>
 
