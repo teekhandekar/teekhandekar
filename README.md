@@ -1,4 +1,4 @@
-[[Masterhead](https://www.shutterstock.com/image-photo/cloud-computing-technology-connectivity-concept-mixed-1831836940)]
+![Uploading image.png…]()
 
 
 <h1 align="center">Hi 👋, I'm Tejaswini Khandekar</h1>
