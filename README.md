@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teekhandekar)](https://git.io/streak-stats)
-
 <h1 align="center">Hi 👋, I'm Tejaswini Khandekar</h1>
 <h3 align="center">I'm a IT student, passionate about cloud computing and cloud security</h3>
 
@@ -10,6 +8,8 @@
 - 💬 Ask me about **c, basic python and a bit of animation stuff**
 
 - 📫 How to reach me **khandekartejaswini794@gmail.com**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teekhandekar)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
