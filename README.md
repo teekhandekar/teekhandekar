@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teekhandekar)](https://git.io/streak-stats)
+
 <h1 align="center">Hi 👋, I'm Tejaswini Khandekar</h1>
 <h3 align="center">I'm a IT student, passionate about cloud computing and cloud security</h3>
 
